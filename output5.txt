@@ -1,0 +1,940 @@
+Line no. 4   Lexeme: _unionfunction                 Token: TK_FUNID 
+Line no. 4   Lexeme: input                          Token: TK_INPUT 
+Line no. 4   Lexeme: parameter                      Token: TK_PARAMETER 
+Line no. 4   Lexeme: list                           Token: TK_LIST 
+Line no. 4   Lexeme: [                              Token: TK_SQL 
+Line no. 4   Lexeme: record                         Token: TK_RECORD 
+Line no. 4   Lexeme: #two                           Token: TK_RUID 
+Line no. 4   Lexeme: d5cc34                         Token: TK_ID 
+Line no. 4   Lexeme: ,                              Token: TK_COMMA 
+Line no. 4   Lexeme: #point                         Token: TK_RUID 
+Line no. 4   Lexeme: b5c6                           Token: TK_ID 
+Line no. 4   Lexeme: ]                              Token: TK_SQR 
+Line no. 5   Lexeme: output                         Token: TK_OUTPUT 
+Line no. 5   Lexeme: parameter                      Token: TK_PARAMETER 
+Line no. 5   Lexeme: list                           Token: TK_LIST 
+Line no. 5   Lexeme: [                              Token: TK_SQL 
+Line no. 5   Lexeme: real                           Token: TK_REAL 
+Line no. 5   Lexeme: d3                             Token: TK_ID 
+Line no. 5   Lexeme: ]                              Token: TK_SQR 
+Line no. 5   Lexeme: ;                              Token: TK_SEM 
+Line no. 7   Lexeme: record                         Token: TK_RECORD 
+Line no. 7   Lexeme: #two                           Token: TK_RUID 
+Line no. 8   Lexeme: type                           Token: TK_TYPE 
+Line no. 8   Lexeme: #point                         Token: TK_RUID 
+Line no. 8   Lexeme: :                              Token: TK_COLON 
+Line no. 8   Lexeme: beginpoint                     Token: TK_FIELDID 
+Line no. 8   Lexeme: ;                              Token: TK_SEM 
+Line no. 9   Lexeme: type                           Token: TK_TYPE 
+Line no. 9   Lexeme: #point                         Token: TK_RUID 
+Line no. 9   Lexeme: :                              Token: TK_COLON 
+Line no. 9   Lexeme: endpoint                       Token: TK_FIELDID 
+Line no. 9   Lexeme: ;                              Token: TK_SEM 
+Line no. 10  Lexeme: endrecord                      Token: TK_ENDRECORD 
+Line no. 13  Lexeme: type                           Token: TK_TYPE 
+Line no. 13  Lexeme: record                         Token: TK_RECORD 
+Line no. 13  Lexeme: #two                           Token: TK_RUID 
+Line no. 13  Lexeme: :                              Token: TK_COLON 
+Line no. 13  Lexeme: b5b567                         Token: TK_ID 
+Line no. 13  Lexeme: ;                              Token: TK_SEM 
+Line no. 14  Lexeme: type                           Token: TK_TYPE 
+Line no. 14  Lexeme: record                         Token: TK_RECORD 
+Line no. 14  Lexeme: #one                           Token: TK_RUID 
+Line no. 14  Lexeme: :                              Token: TK_COLON 
+Line no. 14  Lexeme: b3                             Token: TK_ID 
+Line no. 14  Lexeme: ;                              Token: TK_SEM 
+Line no. 15  Lexeme: type                           Token: TK_TYPE 
+Line no. 15  Lexeme: #point                         Token: TK_RUID 
+Line no. 15  Lexeme: :                              Token: TK_COLON 
+Line no. 15  Lexeme: d5                             Token: TK_ID 
+Line no. 15  Lexeme: ;                              Token: TK_SEM 
+Line no. 16  Lexeme: b5b567                         Token: TK_ID 
+Line no. 16  Lexeme: <---                           Token: TK_ASSIGNOP 
+Line no. 16  Lexeme: c6                             Token: TK_ID 
+Line no. 16  Lexeme: *                              Token: TK_MUL 
+Line no. 16  Lexeme: 2                              Token: TK_NUM 
+Line no. 16  Lexeme: ;                              Token: TK_SEM 
+Line no. 17  Lexeme: b3                             Token: TK_ID 
+Line no. 17  Lexeme: <---                           Token: TK_ASSIGNOP 
+Line no. 17  Lexeme: c6                             Token: TK_ID 
+Line no. 17  Lexeme: -                              Token: TK_MINUS 
+Line no. 17  Lexeme: c3                             Token: TK_ID 
+Line no. 17  Lexeme: ;                              Token: TK_SEM 
+Line no. 18  Lexeme: while                          Token: TK_WHILE 
+Line no. 18  Lexeme: (                              Token: TK_OP 
+Line no. 18  Lexeme: b5b567                         Token: TK_ID 
+Line no. 18  Lexeme: <=                             Token: TK_LE 
+Line no. 18  Lexeme: d5cc34                         Token: TK_ID 
+Line no. 18  Lexeme: )                              Token: TK_CL 
+Line no. 19  Lexeme: read                           Token: TK_READ 
+Line no. 19  Lexeme: (                              Token: TK_OP 
+Line no. 19  Lexeme: c3bd                           Token: TK_ID 
+Line no. 19  Lexeme: )                              Token: TK_CL 
+Line no. 19  Lexeme: ;                              Token: TK_SEM 
+Line no. 20  Lexeme: d3                             Token: TK_ID 
+Line no. 20  Lexeme: <---                           Token: TK_ASSIGNOP 
+Line no. 20  Lexeme: d3                             Token: TK_ID 
+Line no. 20  Lexeme: +                              Token: TK_PLUS 
+Line no. 20  Lexeme: c3bd                           Token: TK_ID 
+Line no. 20  Lexeme: ;                              Token: TK_SEM 
+Line no. 21  Lexeme: b5b567                         Token: TK_ID 
+Line no. 21  Lexeme: <---                           Token: TK_ASSIGNOP 
+Line no. 21  Lexeme: b5b567                         Token: TK_ID 
+Line no. 21  Lexeme: +                              Token: TK_PLUS 
+Line no. 21  Lexeme: 1                              Token: TK_NUM 
+Line no. 21  Lexeme: ;                              Token: TK_SEM 
+Line no. 22  Lexeme: endwhile                       Token: TK_ENDWHILE 
+Line no. 23  Lexeme: return                         Token: TK_RETURN 
+Line no. 23  Lexeme: [                              Token: TK_SQL 
+Line no. 23  Lexeme: d3                             Token: TK_ID 
+Line no. 23  Lexeme: ]                              Token: TK_SQR 
+Line no. 23  Lexeme: ;                              Token: TK_SEM 
+Line no. 24  Lexeme: end                            Token: TK_END 
+Line no. 27  Lexeme: _main                          Token: TK_MAIN 
+Line no. 28  Lexeme: record                         Token: TK_RECORD 
+Line no. 28  Lexeme: #one                           Token: TK_RUID 
+Line no. 29  Lexeme: type                           Token: TK_TYPE 
+Line no. 29  Lexeme: real                           Token: TK_REAL 
+Line no. 29  Lexeme: :                              Token: TK_COLON 
+Line no. 29  Lexeme: x                              Token: TK_FIELDID 
+Line no. 29  Lexeme: ;                              Token: TK_SEM 
+Line no. 30  Lexeme: type                           Token: TK_TYPE 
+Line no. 30  Lexeme: real                           Token: TK_REAL 
+Line no. 30  Lexeme: :                              Token: TK_COLON 
+Line no. 30  Lexeme: y                              Token: TK_FIELDID 
+Line no. 30  Lexeme: ;                              Token: TK_SEM 
+Line no. 31  Lexeme: endrecord                      Token: TK_ENDRECORD 
+Line no. 32  Lexeme: definetype                     Token: TK_DEFINETYPE 
+Line no. 32  Lexeme: record                         Token: TK_RECORD 
+Line no. 32  Lexeme: #one                           Token: TK_RUID 
+Line no. 32  Lexeme: as                             Token: TK_AS 
+Line no. 32  Lexeme: #point                         Token: TK_RUID 
+Line no. 33  Lexeme: definetype                     Token: TK_DEFINETYPE 
+Line no. 33  Lexeme: record                         Token: TK_RECORD 
+Line no. 33  Lexeme: #two                           Token: TK_RUID 
+Line no. 33  Lexeme: as                             Token: TK_AS 
+Line no. 33  Lexeme: #line                          Token: TK_RUID 
+Line no. 34  Lexeme: union                          Token: TK_UNION 
+Line no. 34  Lexeme: #four                          Token: TK_RUID 
+Line no. 35  Lexeme: type                           Token: TK_TYPE 
+Line no. 35  Lexeme: #line                          Token: TK_RUID 
+Line no. 35  Lexeme: :                              Token: TK_COLON 
+Line no. 35  Lexeme: ln                             Token: TK_FIELDID 
+Line no. 35  Lexeme: ;                              Token: TK_SEM 
+Line no. 36  Lexeme: type                           Token: TK_TYPE 
+Line no. 36  Lexeme: #point                         Token: TK_RUID 
+Line no. 36  Lexeme: :                              Token: TK_COLON 
+Line no. 36  Lexeme: pt                             Token: TK_FIELDID 
+Line no. 36  Lexeme: ;                              Token: TK_SEM 
+Line no. 37  Lexeme: type                           Token: TK_TYPE 
+Line no. 37  Lexeme: #traingle                      Token: TK_RUID 
+Line no. 37  Lexeme: :                              Token: TK_COLON 
+Line no. 37  Lexeme: tr                             Token: TK_FIELDID 
+Line no. 37  Lexeme: ;                              Token: TK_SEM 
+Line no. 38  Lexeme: endunion                       Token: TK_ENDUNION 
+Line no. 39  Lexeme: definetype                     Token: TK_DEFINETYPE 
+Line no. 39  Lexeme: record                         Token: TK_RECORD 
+Line no. 39  Lexeme: #three                         Token: TK_RUID 
+Line no. 39  Lexeme: as                             Token: TK_AS 
+Line no. 39  Lexeme: #triangle                      Token: TK_RUID 
+Line no. 40  Lexeme: record                         Token: TK_RECORD 
+Line no. 40  Lexeme: #three                         Token: TK_RUID 
+Line no. 41  Lexeme: type                           Token: TK_TYPE 
+Line no. 41  Lexeme: #line                          Token: TK_RUID 
+Line no. 41  Lexeme: :                              Token: TK_COLON 
+Line no. 41  Lexeme: base                           Token: TK_FIELDID 
+Line no. 41  Lexeme: ;                              Token: TK_SEM 
+Line no. 42  Lexeme: type                           Token: TK_TYPE 
+Line no. 42  Lexeme: #line                          Token: TK_RUID 
+Line no. 42  Lexeme: :                              Token: TK_COLON 
+Line no. 42  Lexeme: height                         Token: TK_FIELDID 
+Line no. 42  Lexeme: ;                              Token: TK_SEM 
+Line no. 43  Lexeme: endrecord                      Token: TK_ENDRECORD 
+Line no. 44  Lexeme: definetype                     Token: TK_DEFINETYPE 
+Line no. 44  Lexeme: union                          Token: TK_UNION 
+Line no. 44  Lexeme: #four                          Token: TK_RUID 
+Line no. 44  Lexeme: as                             Token: TK_AS 
+Line no. 44  Lexeme: #shape                         Token: TK_RUID 
+Line no. 45  Lexeme: record                         Token: TK_RECORD 
+Line no. 45  Lexeme: #variantrecord                 Token: TK_RUID 
+Line no. 46  Lexeme: type                           Token: TK_TYPE 
+Line no. 46  Lexeme: int                            Token: TK_INT 
+Line no. 46  Lexeme: :                              Token: TK_COLON 
+Line no. 46  Lexeme: tag                            Token: TK_FIELDID 
+Line no. 46  Lexeme: ;                              Token: TK_SEM 
+Line no. 47  Lexeme: type                           Token: TK_TYPE 
+Line no. 47  Lexeme: #shape                         Token: TK_RUID 
+Line no. 47  Lexeme: :                              Token: TK_COLON 
+Line no. 47  Lexeme: s                              Token: TK_FIELDID 
+Line no. 47  Lexeme: ;                              Token: TK_SEM 
+Line no. 48  Lexeme: endrecord                      Token: TK_ENDRECORD 
+Line no. 50  Lexeme: type                           Token: TK_TYPE 
+Line no. 50  Lexeme: record                         Token: TK_RECORD 
+Line no. 50  Lexeme: #variantrecord                 Token: TK_RUID 
+Line no. 50  Lexeme: :                              Token: TK_COLON 
+Line no. 50  Lexeme: d4                             Token: TK_ID 
+Line no. 50  Lexeme: ;                              Token: TK_SEM 
+Line no. 51  Lexeme: type                           Token: TK_TYPE 
+Line no. 51  Lexeme: int                            Token: TK_INT 
+Line no. 51  Lexeme: :                              Token: TK_COLON 
+Line no. 51  Lexeme: b5                             Token: TK_ID 
+Line no. 51  Lexeme: ;                              Token: TK_SEM 
+Line no. 52  Lexeme: type                           Token: TK_TYPE 
+Line no. 52  Lexeme: int                            Token: TK_INT 
+Line no. 52  Lexeme: :                              Token: TK_COLON 
+Line no. 52  Lexeme: d5cb34567                      Token: TK_ID 
+Line no. 52  Lexeme: ;                              Token: TK_SEM 
+Line no. 53  Lexeme: type                           Token: TK_TYPE 
+Line no. 53  Lexeme: record                         Token: TK_RECORD 
+Line no. 53  Lexeme: #variantrecord                 Token: TK_RUID 
+Line no. 53  Lexeme: :                              Token: TK_COLON 
+Line no. 53  Lexeme: b5c6                           Token: TK_ID 
+Line no. 53  Lexeme: ;                              Token: TK_SEM 
+Line no. 54  Lexeme: b5c6                           Token: TK_ID 
+Line no. 54  Lexeme: <---                           Token: TK_ASSIGNOP 
+Line no. 54  Lexeme: b5c6                           Token: TK_ID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: tag                            Token: TK_FIELDID 
+Line no. 54  Lexeme: +                              Token: TK_PLUS 
+Line no. 54  Lexeme: d4                             Token: TK_ID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: s                              Token: TK_FIELDID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: ln                             Token: TK_FIELDID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: beginpoint                     Token: TK_FIELDID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: x                              Token: TK_FIELDID 
+Line no. 54  Lexeme: -                              Token: TK_MINUS 
+Line no. 54  Lexeme: b5c6                           Token: TK_ID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: s                              Token: TK_FIELDID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: tr                             Token: TK_FIELDID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: base                           Token: TK_FIELDID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: beginpoint                     Token: TK_FIELDID 
+Line no. 54  Lexeme: .                              Token: TK_DOT 
+Line no. 54  Lexeme: y                              Token: TK_FIELDID 
+Line no. 54  Lexeme: ;                              Token: TK_SEM 
+Line no. 55  Lexeme: b5                             Token: TK_ID 
+Line no. 55  Lexeme: <---                           Token: TK_ASSIGNOP 
+Line no. 55  Lexeme: b5                             Token: TK_ID 
+Line no. 55  Lexeme: +                              Token: TK_PLUS 
+Line no. 55  Lexeme: 1                              Token: TK_NUM 
+Line no. 55  Lexeme: ;                              Token: TK_SEM 
+Line no. 56  Lexeme: d4                             Token: TK_ID 
+Line no. 56  Lexeme: <---                           Token: TK_ASSIGNOP 
+Line no. 56  Lexeme: b5c6                           Token: TK_ID 
+Line no. 56  Lexeme: /                              Token: TK_DIV 
+Line no. 56  Lexeme: d5cb34567                      Token: TK_ID 
+Line no. 56  Lexeme: ;                              Token: TK_SEM 
+Line no. 57  Lexeme: write                          Token: TK_WRITE 
+Line no. 57  Lexeme: (                              Token: TK_OP 
+Line no. 57  Lexeme: d4                             Token: TK_ID 
+Line no. 57  Lexeme: )                              Token: TK_CL 
+Line no. 57  Lexeme: ;                              Token: TK_SEM 
+Line no. 58  Lexeme: write                          Token: TK_WRITE 
+Line no. 58  Lexeme: (                              Token: TK_OP 
+Line no. 58  Lexeme: d4                             Token: TK_ID 
+Line no. 58  Lexeme: .                              Token: TK_DOT 
+Line no. 58  Lexeme: s                              Token: TK_FIELDID 
+Line no. 58  Lexeme: .                              Token: TK_DOT 
+Line no. 58  Lexeme: ln                             Token: TK_FIELDID 
+Line no. 58  Lexeme: .                              Token: TK_DOT 
+Line no. 58  Lexeme: beginpoint                     Token: TK_FIELDID 
+Line no. 58  Lexeme: .                              Token: TK_DOT 
+Line no. 58  Lexeme: x                              Token: TK_FIELDID 
+Line no. 58  Lexeme: )                              Token: TK_CL 
+Line no. 58  Lexeme: ;                              Token: TK_SEM 
+Line no. 59  Lexeme: write                          Token: TK_WRITE 
+Line no. 59  Lexeme: (                              Token: TK_OP 
+Line no. 59  Lexeme: b5c6                           Token: TK_ID 
+Line no. 59  Lexeme: .                              Token: TK_DOT 
+Line no. 59  Lexeme: tag                            Token: TK_FIELDID 
+Line no. 59  Lexeme: )                              Token: TK_CL 
+Line no. 59  Lexeme: ;                              Token: TK_SEM 
+Line no. 60  Lexeme: return                         Token: TK_RETURN 
+Line no. 60  Lexeme: ;                              Token: TK_SEM 
+Line no. 61  Lexeme: end                            Token: TK_END 
+=============================================================== PARSE TREE ========================================================================
+
+              lexeme    lineno      tokenName  valueIfNumber              parentNodeSymbol  isLeafNode(yes/no)                    NodeSymbol
+---------------------------------------------------------------------------------------------------------------------------------------------------
+      _unionfunction          4        TK_FUNID            ----                     <function>                  yes                           ----
+                ----          4            ----            ----               <otherFunctions>                   no                     <function>
+               input          4        TK_INPUT            ----                    <input_par>                  yes                           ----
+                ----          4            ----            ----                     <function>                   no                    <input_par>
+           parameter          4    TK_PARAMETER            ----                    <input_par>                  yes                           ----
+                list          4         TK_LIST            ----                    <input_par>                  yes                           ----
+                   [          4          TK_SQL            ----                    <input_par>                  yes                           ----
+              record          4       TK_RECORD            ----          <constructedDatatype>                  yes                           ----
+                ----          4            ----            ----                     <dataType>                   no          <constructedDatatype>
+                #two          4         TK_RUID            ----          <constructedDatatype>                  yes                           ----
+                ----          4            ----            ----               <parameter_list>                   no                     <dataType>
+                ----          4            ----            ----                    <input_par>                   no               <parameter_list>
+              d5cc34          4           TK_ID            ----               <parameter_list>                  yes                           ----
+                   ,          4        TK_COMMA            ----               <remaining_list>                  yes                           ----
+                ----          4            ----            ----               <parameter_list>                   no               <remaining_list>
+              #point          4         TK_RUID            ----          <constructedDatatype>                  yes                           ----
+                ----          4            ----            ----                     <dataType>                   no          <constructedDatatype>
+                ----          4            ----            ----               <parameter_list>                   no                     <dataType>
+                ----          4            ----            ----               <remaining_list>                   no               <parameter_list>
+                b5c6          4           TK_ID            ----               <parameter_list>                  yes                           ----
+                ----          4            ----            ----               <remaining_list>                   no                     TK_EPSILON
+                ----          4            ----            ----               <parameter_list>                   no               <remaining_list>
+                   ]          4          TK_SQR            ----                    <input_par>                  yes                           ----
+              output          5       TK_OUTPUT            ----                   <output_par>                  yes                           ----
+                ----          5            ----            ----                     <function>                   no                   <output_par>
+           parameter          5    TK_PARAMETER            ----                   <output_par>                  yes                           ----
+                list          5         TK_LIST            ----                   <output_par>                  yes                           ----
+                   [          5          TK_SQL            ----                   <output_par>                  yes                           ----
+                real          5         TK_REAL            ----            <primitiveDatatype>                  yes                           ----
+                ----          5            ----            ----                     <dataType>                   no            <primitiveDatatype>
+                ----          5            ----            ----               <parameter_list>                   no                     <dataType>
+                ----          5            ----            ----                   <output_par>                   no               <parameter_list>
+                  d3          5           TK_ID            ----               <parameter_list>                  yes                           ----
+                ----          5            ----            ----               <remaining_list>                   no                     TK_EPSILON
+                ----          5            ----            ----               <parameter_list>                   no               <remaining_list>
+                   ]          5          TK_SQR            ----                   <output_par>                  yes                           ----
+                   ;          5          TK_SEM            ----                     <function>                  yes                           ----
+              record          7       TK_RECORD            ----               <typeDefinition>                  yes                           ----
+                ----          7            ----            ----           <typeDefineOrActual>                   no               <typeDefinition>
+                #two          7         TK_RUID            ----               <typeDefinition>                  yes                           ----
+                type          8         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----          8            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+              #point          8         TK_RUID            ----          <DifferentFieldTypes>                  yes                           ----
+                ----          8            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :          8        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+          beginpoint          8      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;          8          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----          8            ----            ----               <typeDefinition>                   no             <fieldDefinitions>
+                type          9         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----          9            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+              #point          9         TK_RUID            ----          <DifferentFieldTypes>                  yes                           ----
+                ----          9            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :          9        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+            endpoint          9      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;          9          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         10            ----            ----                   <moreFields>                   no                     TK_EPSILON
+                ----         10            ----            ----             <fieldDefinitions>                   no                   <moreFields>
+           endrecord         10    TK_ENDRECORD            ----               <typeDefinition>                  yes                           ----
+                ----          7            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----          7            ----            ----                        <stmts>                   no              <typeDefinitions>
+                ----         13            ----            ----              <typeDefinitions>                   no                     TK_EPSILON
+                ----         13            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+                ----          7            ----            ----                     <function>                   no                        <stmts>
+                type         13         TK_TYPE            ----                  <declaration>                  yes                           ----
+                ----         13            ----            ----                 <declarations>                   no                  <declaration>
+              record         13       TK_RECORD            ----          <constructedDatatype>                  yes                           ----
+                ----         13            ----            ----                     <dataType>                   no          <constructedDatatype>
+                #two         13         TK_RUID            ----          <constructedDatatype>                  yes                           ----
+                ----         13            ----            ----                  <declaration>                   no                     <dataType>
+                   :         13        TK_COLON            ----                  <declaration>                  yes                           ----
+              b5b567         13           TK_ID            ----                  <declaration>                  yes                           ----
+                ----         13            ----            ----                <global_or_not>                   no                     TK_EPSILON
+                ----         13            ----            ----                  <declaration>                   no                <global_or_not>
+                   ;         13          TK_SEM            ----                  <declaration>                  yes                           ----
+                ----         13            ----            ----                        <stmts>                   no                 <declarations>
+                type         14         TK_TYPE            ----                  <declaration>                  yes                           ----
+                ----         14            ----            ----                 <declarations>                   no                  <declaration>
+              record         14       TK_RECORD            ----          <constructedDatatype>                  yes                           ----
+                ----         14            ----            ----                     <dataType>                   no          <constructedDatatype>
+                #one         14         TK_RUID            ----          <constructedDatatype>                  yes                           ----
+                ----         14            ----            ----                  <declaration>                   no                     <dataType>
+                   :         14        TK_COLON            ----                  <declaration>                  yes                           ----
+                  b3         14           TK_ID            ----                  <declaration>                  yes                           ----
+                ----         14            ----            ----                <global_or_not>                   no                     TK_EPSILON
+                ----         14            ----            ----                  <declaration>                   no                <global_or_not>
+                   ;         14          TK_SEM            ----                  <declaration>                  yes                           ----
+                ----         14            ----            ----                 <declarations>                   no                 <declarations>
+                type         15         TK_TYPE            ----                  <declaration>                  yes                           ----
+                ----         15            ----            ----                 <declarations>                   no                  <declaration>
+              #point         15         TK_RUID            ----          <constructedDatatype>                  yes                           ----
+                ----         15            ----            ----                     <dataType>                   no          <constructedDatatype>
+                ----         15            ----            ----                  <declaration>                   no                     <dataType>
+                   :         15        TK_COLON            ----                  <declaration>                  yes                           ----
+                  d5         15           TK_ID            ----                  <declaration>                  yes                           ----
+                ----         15            ----            ----                <global_or_not>                   no                     TK_EPSILON
+                ----         15            ----            ----                  <declaration>                   no                <global_or_not>
+                   ;         15          TK_SEM            ----                  <declaration>                  yes                           ----
+                ----         15            ----            ----                 <declarations>                   no                 <declarations>
+                ----         16            ----            ----                 <declarations>                   no                     TK_EPSILON
+                ----         16            ----            ----                 <declarations>                   no                 <declarations>
+              b5b567         16           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         16            ----            ----               <assignmentStmt>                   no                <singleOrRecId>
+                ----         16            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         16            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         16            ----            ----                         <stmt>                   no               <assignmentStmt>
+                <---         16     TK_ASSIGNOP            ----               <assignmentStmt>                  yes                           ----
+                  c6         16           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         16            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         16            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         16            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         16            ----            ----                       <factor>                   no                          <var>
+                ----         16            ----            ----                         <term>                   no                       <factor>
+                ----         16            ----            ----         <arithmeticExpression>                   no                         <term>
+                   *         16          TK_MUL            ----                       <highOp>                  yes                           ----
+                ----         16            ----            ----                      <highExp>                   no                       <highOp>
+                ----         16            ----            ----                         <term>                   no                      <highExp>
+                ----         16          TK_NUM               2                          <var>                  yes                           ----
+                ----         16            ----            ----                       <factor>                   no                          <var>
+                ----         16            ----            ----                      <highExp>                   no                       <factor>
+                ----         16            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         16            ----            ----                      <highExp>                   no                      <highExp>
+                ----         16            ----            ----               <assignmentStmt>                   no         <arithmeticExpression>
+                ----         16            ----            ----                       <lowExp>                   no                     TK_EPSILON
+                ----         16            ----            ----         <arithmeticExpression>                   no                       <lowExp>
+                   ;         16          TK_SEM            ----               <assignmentStmt>                  yes                           ----
+                ----         16            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         16            ----            ----                        <stmts>                   no                   <otherStmts>
+                  b3         17           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         17            ----            ----               <assignmentStmt>                   no                <singleOrRecId>
+                ----         17            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         17            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         17            ----            ----                         <stmt>                   no               <assignmentStmt>
+                <---         17     TK_ASSIGNOP            ----               <assignmentStmt>                  yes                           ----
+                  c6         17           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         17            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         17            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         17            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         17            ----            ----                       <factor>                   no                          <var>
+                ----         17            ----            ----                         <term>                   no                       <factor>
+                ----         17            ----            ----         <arithmeticExpression>                   no                         <term>
+                ----         17            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         17            ----            ----                         <term>                   no                      <highExp>
+                ----         17            ----            ----               <assignmentStmt>                   no         <arithmeticExpression>
+                   -         17        TK_MINUS            ----                        <lowOp>                  yes                           ----
+                ----         17            ----            ----                       <lowExp>                   no                        <lowOp>
+                ----         17            ----            ----         <arithmeticExpression>                   no                       <lowExp>
+                  c3         17           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         17            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         17            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         17            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         17            ----            ----                       <factor>                   no                          <var>
+                ----         17            ----            ----                         <term>                   no                       <factor>
+                ----         17            ----            ----                       <lowExp>                   no                         <term>
+                ----         17            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         17            ----            ----                         <term>                   no                      <highExp>
+                ----         17            ----            ----                       <lowExp>                   no                     TK_EPSILON
+                ----         17            ----            ----                       <lowExp>                   no                       <lowExp>
+                   ;         17          TK_SEM            ----               <assignmentStmt>                  yes                           ----
+                ----         17            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         17            ----            ----                   <otherStmts>                   no                   <otherStmts>
+               while         18        TK_WHILE            ----                <iterativeStmt>                  yes                           ----
+                ----         18            ----            ----                         <stmt>                   no                <iterativeStmt>
+                   (         18           TK_OP            ----                <iterativeStmt>                  yes                           ----
+              b5b567         18           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         18            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         18            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         18            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         18            ----            ----            <booleanExpression>                   no                          <var>
+                ----         18            ----            ----                <iterativeStmt>                   no            <booleanExpression>
+                  <=         18           TK_LE            ----                 <relationalOp>                  yes                           ----
+                ----         18            ----            ----            <booleanExpression>                   no                 <relationalOp>
+              d5cc34         18           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         18            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         18            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         18            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         18            ----            ----            <booleanExpression>                   no                          <var>
+                   )         18           TK_CL            ----                <iterativeStmt>                  yes                           ----
+                read         19         TK_READ            ----                       <ioStmt>                  yes                           ----
+                ----         19            ----            ----                         <stmt>                   no                       <ioStmt>
+                   (         19           TK_OP            ----                       <ioStmt>                  yes                           ----
+                c3bd         19           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         19            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         19            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         19            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         19            ----            ----                       <ioStmt>                   no                          <var>
+                   )         19           TK_CL            ----                       <ioStmt>                  yes                           ----
+                   ;         19          TK_SEM            ----                       <ioStmt>                  yes                           ----
+                ----         19            ----            ----                <iterativeStmt>                   no                         <stmt>
+                  d3         20           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         20            ----            ----               <assignmentStmt>                   no                <singleOrRecId>
+                ----         20            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         20            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         20            ----            ----                         <stmt>                   no               <assignmentStmt>
+                <---         20     TK_ASSIGNOP            ----               <assignmentStmt>                  yes                           ----
+                  d3         20           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         20            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         20            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         20            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         20            ----            ----                       <factor>                   no                          <var>
+                ----         20            ----            ----                         <term>                   no                       <factor>
+                ----         20            ----            ----         <arithmeticExpression>                   no                         <term>
+                ----         20            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         20            ----            ----                         <term>                   no                      <highExp>
+                ----         20            ----            ----               <assignmentStmt>                   no         <arithmeticExpression>
+                   +         20         TK_PLUS            ----                        <lowOp>                  yes                           ----
+                ----         20            ----            ----                       <lowExp>                   no                        <lowOp>
+                ----         20            ----            ----         <arithmeticExpression>                   no                       <lowExp>
+                c3bd         20           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         20            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         20            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         20            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         20            ----            ----                       <factor>                   no                          <var>
+                ----         20            ----            ----                         <term>                   no                       <factor>
+                ----         20            ----            ----                       <lowExp>                   no                         <term>
+                ----         20            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         20            ----            ----                         <term>                   no                      <highExp>
+                ----         20            ----            ----                       <lowExp>                   no                     TK_EPSILON
+                ----         20            ----            ----                       <lowExp>                   no                       <lowExp>
+                   ;         20          TK_SEM            ----               <assignmentStmt>                  yes                           ----
+                ----         20            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         20            ----            ----                <iterativeStmt>                   no                   <otherStmts>
+              b5b567         21           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         21            ----            ----               <assignmentStmt>                   no                <singleOrRecId>
+                ----         21            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         21            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         21            ----            ----                         <stmt>                   no               <assignmentStmt>
+                <---         21     TK_ASSIGNOP            ----               <assignmentStmt>                  yes                           ----
+              b5b567         21           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         21            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         21            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         21            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         21            ----            ----                       <factor>                   no                          <var>
+                ----         21            ----            ----                         <term>                   no                       <factor>
+                ----         21            ----            ----         <arithmeticExpression>                   no                         <term>
+                ----         21            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         21            ----            ----                         <term>                   no                      <highExp>
+                ----         21            ----            ----               <assignmentStmt>                   no         <arithmeticExpression>
+                   +         21         TK_PLUS            ----                        <lowOp>                  yes                           ----
+                ----         21            ----            ----                       <lowExp>                   no                        <lowOp>
+                ----         21            ----            ----         <arithmeticExpression>                   no                       <lowExp>
+                ----         21          TK_NUM               1                          <var>                  yes                           ----
+                ----         21            ----            ----                       <factor>                   no                          <var>
+                ----         21            ----            ----                         <term>                   no                       <factor>
+                ----         21            ----            ----                       <lowExp>                   no                         <term>
+                ----         21            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         21            ----            ----                         <term>                   no                      <highExp>
+                ----         21            ----            ----                       <lowExp>                   no                     TK_EPSILON
+                ----         21            ----            ----                       <lowExp>                   no                       <lowExp>
+                   ;         21          TK_SEM            ----               <assignmentStmt>                  yes                           ----
+                ----         21            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         21            ----            ----                   <otherStmts>                   no                   <otherStmts>
+                ----         22            ----            ----                   <otherStmts>                   no                     TK_EPSILON
+                ----         22            ----            ----                   <otherStmts>                   no                   <otherStmts>
+            endwhile         22     TK_ENDWHILE            ----                <iterativeStmt>                  yes                           ----
+                ----         18            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         18            ----            ----                   <otherStmts>                   no                   <otherStmts>
+                ----         23            ----            ----                   <otherStmts>                   no                     TK_EPSILON
+                ----         23            ----            ----                   <otherStmts>                   no                   <otherStmts>
+              return         23       TK_RETURN            ----                   <returnStmt>                  yes                           ----
+                ----         23            ----            ----                        <stmts>                   no                   <returnStmt>
+                   [         23          TK_SQL            ----               <optionalReturn>                  yes                           ----
+                ----         23            ----            ----                   <returnStmt>                   no               <optionalReturn>
+                  d3         23           TK_ID            ----                       <idList>                  yes                           ----
+                ----         23            ----            ----               <optionalReturn>                   no                       <idList>
+                ----         23            ----            ----                     <more_ids>                   no                     TK_EPSILON
+                ----         23            ----            ----                       <idList>                   no                     <more_ids>
+                   ]         23          TK_SQR            ----               <optionalReturn>                  yes                           ----
+                   ;         23          TK_SEM            ----                   <returnStmt>                  yes                           ----
+                 end         24          TK_END            ----                     <function>                  yes                           ----
+                ----          4            ----            ----                      <program>                   no               <otherFunctions>
+                ----         27            ----            ----               <otherFunctions>                   no                     TK_EPSILON
+                ----         27            ----            ----               <otherFunctions>                   no               <otherFunctions>
+                ----          4            ----            ----                           ----                   no                      <program>
+               _main         27         TK_MAIN            ----                 <mainFunction>                  yes                           ----
+                ----         27            ----            ----                      <program>                   no                 <mainFunction>
+              record         28       TK_RECORD            ----               <typeDefinition>                  yes                           ----
+                ----         28            ----            ----           <typeDefineOrActual>                   no               <typeDefinition>
+                #one         28         TK_RUID            ----               <typeDefinition>                  yes                           ----
+                type         29         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         29            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+                real         29         TK_REAL            ----            <primitiveDatatype>                  yes                           ----
+                ----         29            ----            ----          <DifferentFieldTypes>                   no            <primitiveDatatype>
+                ----         29            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         29        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+                   x         29      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         29          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         29            ----            ----               <typeDefinition>                   no             <fieldDefinitions>
+                type         30         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         30            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+                real         30         TK_REAL            ----            <primitiveDatatype>                  yes                           ----
+                ----         30            ----            ----          <DifferentFieldTypes>                   no            <primitiveDatatype>
+                ----         30            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         30        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+                   y         30      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         30          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         31            ----            ----                   <moreFields>                   no                     TK_EPSILON
+                ----         31            ----            ----             <fieldDefinitions>                   no                   <moreFields>
+           endrecord         31    TK_ENDRECORD            ----               <typeDefinition>                  yes                           ----
+                ----         28            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----         28            ----            ----                        <stmts>                   no              <typeDefinitions>
+          definetype         32   TK_DEFINETYPE            ----               <definetypestmt>                  yes                           ----
+                ----         32            ----            ----           <typeDefineOrActual>                   no               <definetypestmt>
+              record         32       TK_RECORD            ----                            <A>                  yes                           ----
+                ----         32            ----            ----               <definetypestmt>                   no                            <A>
+                #one         32         TK_RUID            ----               <definetypestmt>                  yes                           ----
+                  as         32           TK_AS            ----               <definetypestmt>                  yes                           ----
+              #point         32         TK_RUID            ----               <definetypestmt>                  yes                           ----
+                ----         32            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----         32            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+          definetype         33   TK_DEFINETYPE            ----               <definetypestmt>                  yes                           ----
+                ----         33            ----            ----           <typeDefineOrActual>                   no               <definetypestmt>
+              record         33       TK_RECORD            ----                            <A>                  yes                           ----
+                ----         33            ----            ----               <definetypestmt>                   no                            <A>
+                #two         33         TK_RUID            ----               <definetypestmt>                  yes                           ----
+                  as         33           TK_AS            ----               <definetypestmt>                  yes                           ----
+               #line         33         TK_RUID            ----               <definetypestmt>                  yes                           ----
+                ----         33            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----         33            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+               union         34        TK_UNION            ----               <typeDefinition>                  yes                           ----
+                ----         34            ----            ----           <typeDefineOrActual>                   no               <typeDefinition>
+               #four         34         TK_RUID            ----               <typeDefinition>                  yes                           ----
+                type         35         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         35            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+               #line         35         TK_RUID            ----          <DifferentFieldTypes>                  yes                           ----
+                ----         35            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         35        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+                  ln         35      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         35          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         35            ----            ----               <typeDefinition>                   no             <fieldDefinitions>
+                type         36         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         36            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+              #point         36         TK_RUID            ----          <DifferentFieldTypes>                  yes                           ----
+                ----         36            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         36        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+                  pt         36      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         36          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                type         37         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         37            ----            ----                   <moreFields>                   no              <fieldDefinition>
+           #traingle         37         TK_RUID            ----          <DifferentFieldTypes>                  yes                           ----
+                ----         37            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         37        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+                  tr         37      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         37          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         37            ----            ----             <fieldDefinitions>                   no                   <moreFields>
+                ----         38            ----            ----                   <moreFields>                   no                     TK_EPSILON
+                ----         38            ----            ----                   <moreFields>                   no                   <moreFields>
+            endunion         38     TK_ENDUNION            ----               <typeDefinition>                  yes                           ----
+                ----         34            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----         34            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+          definetype         39   TK_DEFINETYPE            ----               <definetypestmt>                  yes                           ----
+                ----         39            ----            ----           <typeDefineOrActual>                   no               <definetypestmt>
+              record         39       TK_RECORD            ----                            <A>                  yes                           ----
+                ----         39            ----            ----               <definetypestmt>                   no                            <A>
+              #three         39         TK_RUID            ----               <definetypestmt>                  yes                           ----
+                  as         39           TK_AS            ----               <definetypestmt>                  yes                           ----
+           #triangle         39         TK_RUID            ----               <definetypestmt>                  yes                           ----
+                ----         39            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----         39            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+              record         40       TK_RECORD            ----               <typeDefinition>                  yes                           ----
+                ----         40            ----            ----           <typeDefineOrActual>                   no               <typeDefinition>
+              #three         40         TK_RUID            ----               <typeDefinition>                  yes                           ----
+                type         41         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         41            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+               #line         41         TK_RUID            ----          <DifferentFieldTypes>                  yes                           ----
+                ----         41            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         41        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+                base         41      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         41          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         41            ----            ----               <typeDefinition>                   no             <fieldDefinitions>
+                type         42         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         42            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+               #line         42         TK_RUID            ----          <DifferentFieldTypes>                  yes                           ----
+                ----         42            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         42        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+              height         42      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         42          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         43            ----            ----                   <moreFields>                   no                     TK_EPSILON
+                ----         43            ----            ----             <fieldDefinitions>                   no                   <moreFields>
+           endrecord         43    TK_ENDRECORD            ----               <typeDefinition>                  yes                           ----
+                ----         40            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----         40            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+          definetype         44   TK_DEFINETYPE            ----               <definetypestmt>                  yes                           ----
+                ----         44            ----            ----           <typeDefineOrActual>                   no               <definetypestmt>
+               union         44        TK_UNION            ----                            <A>                  yes                           ----
+                ----         44            ----            ----               <definetypestmt>                   no                            <A>
+               #four         44         TK_RUID            ----               <definetypestmt>                  yes                           ----
+                  as         44           TK_AS            ----               <definetypestmt>                  yes                           ----
+              #shape         44         TK_RUID            ----               <definetypestmt>                  yes                           ----
+                ----         44            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----         44            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+              record         45       TK_RECORD            ----               <typeDefinition>                  yes                           ----
+                ----         45            ----            ----           <typeDefineOrActual>                   no               <typeDefinition>
+      #variantrecord         45         TK_RUID            ----               <typeDefinition>                  yes                           ----
+                type         46         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         46            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+                 int         46          TK_INT            ----            <primitiveDatatype>                  yes                           ----
+                ----         46            ----            ----          <DifferentFieldTypes>                   no            <primitiveDatatype>
+                ----         46            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         46        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+                 tag         46      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         46          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         46            ----            ----               <typeDefinition>                   no             <fieldDefinitions>
+                type         47         TK_TYPE            ----              <fieldDefinition>                  yes                           ----
+                ----         47            ----            ----             <fieldDefinitions>                   no              <fieldDefinition>
+              #shape         47         TK_RUID            ----          <DifferentFieldTypes>                  yes                           ----
+                ----         47            ----            ----              <fieldDefinition>                   no          <DifferentFieldTypes>
+                   :         47        TK_COLON            ----              <fieldDefinition>                  yes                           ----
+                   s         47      TK_FIELDID            ----              <fieldDefinition>                  yes                           ----
+                   ;         47          TK_SEM            ----              <fieldDefinition>                  yes                           ----
+                ----         48            ----            ----                   <moreFields>                   no                     TK_EPSILON
+                ----         48            ----            ----             <fieldDefinitions>                   no                   <moreFields>
+           endrecord         48    TK_ENDRECORD            ----               <typeDefinition>                  yes                           ----
+                ----         45            ----            ----              <typeDefinitions>                   no           <typeDefineOrActual>
+                ----         45            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+                ----         50            ----            ----              <typeDefinitions>                   no                     TK_EPSILON
+                ----         50            ----            ----              <typeDefinitions>                   no              <typeDefinitions>
+                ----         28            ----            ----                 <mainFunction>                   no                        <stmts>
+                type         50         TK_TYPE            ----                  <declaration>                  yes                           ----
+                ----         50            ----            ----                 <declarations>                   no                  <declaration>
+              record         50       TK_RECORD            ----          <constructedDatatype>                  yes                           ----
+                ----         50            ----            ----                     <dataType>                   no          <constructedDatatype>
+      #variantrecord         50         TK_RUID            ----          <constructedDatatype>                  yes                           ----
+                ----         50            ----            ----                  <declaration>                   no                     <dataType>
+                   :         50        TK_COLON            ----                  <declaration>                  yes                           ----
+                  d4         50           TK_ID            ----                  <declaration>                  yes                           ----
+                ----         50            ----            ----                <global_or_not>                   no                     TK_EPSILON
+                ----         50            ----            ----                  <declaration>                   no                <global_or_not>
+                   ;         50          TK_SEM            ----                  <declaration>                  yes                           ----
+                ----         50            ----            ----                        <stmts>                   no                 <declarations>
+                type         51         TK_TYPE            ----                  <declaration>                  yes                           ----
+                ----         51            ----            ----                 <declarations>                   no                  <declaration>
+                 int         51          TK_INT            ----            <primitiveDatatype>                  yes                           ----
+                ----         51            ----            ----                     <dataType>                   no            <primitiveDatatype>
+                ----         51            ----            ----                  <declaration>                   no                     <dataType>
+                   :         51        TK_COLON            ----                  <declaration>                  yes                           ----
+                  b5         51           TK_ID            ----                  <declaration>                  yes                           ----
+                ----         51            ----            ----                <global_or_not>                   no                     TK_EPSILON
+                ----         51            ----            ----                  <declaration>                   no                <global_or_not>
+                   ;         51          TK_SEM            ----                  <declaration>                  yes                           ----
+                ----         51            ----            ----                 <declarations>                   no                 <declarations>
+                type         52         TK_TYPE            ----                  <declaration>                  yes                           ----
+                ----         52            ----            ----                 <declarations>                   no                  <declaration>
+                 int         52          TK_INT            ----            <primitiveDatatype>                  yes                           ----
+                ----         52            ----            ----                     <dataType>                   no            <primitiveDatatype>
+                ----         52            ----            ----                  <declaration>                   no                     <dataType>
+                   :         52        TK_COLON            ----                  <declaration>                  yes                           ----
+           d5cb34567         52           TK_ID            ----                  <declaration>                  yes                           ----
+                ----         52            ----            ----                <global_or_not>                   no                     TK_EPSILON
+                ----         52            ----            ----                  <declaration>                   no                <global_or_not>
+                   ;         52          TK_SEM            ----                  <declaration>                  yes                           ----
+                ----         52            ----            ----                 <declarations>                   no                 <declarations>
+                type         53         TK_TYPE            ----                  <declaration>                  yes                           ----
+                ----         53            ----            ----                 <declarations>                   no                  <declaration>
+              record         53       TK_RECORD            ----          <constructedDatatype>                  yes                           ----
+                ----         53            ----            ----                     <dataType>                   no          <constructedDatatype>
+      #variantrecord         53         TK_RUID            ----          <constructedDatatype>                  yes                           ----
+                ----         53            ----            ----                  <declaration>                   no                     <dataType>
+                   :         53        TK_COLON            ----                  <declaration>                  yes                           ----
+                b5c6         53           TK_ID            ----                  <declaration>                  yes                           ----
+                ----         53            ----            ----                <global_or_not>                   no                     TK_EPSILON
+                ----         53            ----            ----                  <declaration>                   no                <global_or_not>
+                   ;         53          TK_SEM            ----                  <declaration>                  yes                           ----
+                ----         53            ----            ----                 <declarations>                   no                 <declarations>
+                ----         54            ----            ----                 <declarations>                   no                     TK_EPSILON
+                ----         54            ----            ----                 <declarations>                   no                 <declarations>
+                b5c6         54           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         54            ----            ----               <assignmentStmt>                   no                <singleOrRecId>
+                ----         54            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         54            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         54            ----            ----                         <stmt>                   no               <assignmentStmt>
+                <---         54     TK_ASSIGNOP            ----               <assignmentStmt>                  yes                           ----
+                b5c6         54           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         54            ----            ----                          <var>                   no                <singleOrRecId>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                 tag         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         54            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                ----         54            ----            ----                       <factor>                   no                          <var>
+                ----         54            ----            ----                         <term>                   no                       <factor>
+                ----         54            ----            ----         <arithmeticExpression>                   no                         <term>
+                ----         54            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         54            ----            ----                         <term>                   no                      <highExp>
+                ----         54            ----            ----               <assignmentStmt>                   no         <arithmeticExpression>
+                   +         54         TK_PLUS            ----                        <lowOp>                  yes                           ----
+                ----         54            ----            ----                       <lowExp>                   no                        <lowOp>
+                ----         54            ----            ----         <arithmeticExpression>                   no                       <lowExp>
+                  d4         54           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         54            ----            ----                          <var>                   no                <singleOrRecId>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                   s         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                  ln         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+          beginpoint         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                   x         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                ----         54            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                ----         54            ----            ----                       <factor>                   no                          <var>
+                ----         54            ----            ----                         <term>                   no                       <factor>
+                ----         54            ----            ----                       <lowExp>                   no                         <term>
+                ----         54            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         54            ----            ----                         <term>                   no                      <highExp>
+                   -         54        TK_MINUS            ----                        <lowOp>                  yes                           ----
+                ----         54            ----            ----                       <lowExp>                   no                        <lowOp>
+                ----         54            ----            ----                       <lowExp>                   no                       <lowExp>
+                b5c6         54           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         54            ----            ----                          <var>                   no                <singleOrRecId>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                   s         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                  tr         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                base         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+          beginpoint         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                   .         54          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                   y         54      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                ----         54            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         54            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                ----         54            ----            ----                       <factor>                   no                          <var>
+                ----         54            ----            ----                         <term>                   no                       <factor>
+                ----         54            ----            ----                       <lowExp>                   no                         <term>
+                ----         54            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         54            ----            ----                         <term>                   no                      <highExp>
+                ----         54            ----            ----                       <lowExp>                   no                     TK_EPSILON
+                ----         54            ----            ----                       <lowExp>                   no                       <lowExp>
+                   ;         54          TK_SEM            ----               <assignmentStmt>                  yes                           ----
+                ----         54            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         54            ----            ----                        <stmts>                   no                   <otherStmts>
+                  b5         55           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         55            ----            ----               <assignmentStmt>                   no                <singleOrRecId>
+                ----         55            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         55            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         55            ----            ----                         <stmt>                   no               <assignmentStmt>
+                <---         55     TK_ASSIGNOP            ----               <assignmentStmt>                  yes                           ----
+                  b5         55           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         55            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         55            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         55            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         55            ----            ----                       <factor>                   no                          <var>
+                ----         55            ----            ----                         <term>                   no                       <factor>
+                ----         55            ----            ----         <arithmeticExpression>                   no                         <term>
+                ----         55            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         55            ----            ----                         <term>                   no                      <highExp>
+                ----         55            ----            ----               <assignmentStmt>                   no         <arithmeticExpression>
+                   +         55         TK_PLUS            ----                        <lowOp>                  yes                           ----
+                ----         55            ----            ----                       <lowExp>                   no                        <lowOp>
+                ----         55            ----            ----         <arithmeticExpression>                   no                       <lowExp>
+                ----         55          TK_NUM               1                          <var>                  yes                           ----
+                ----         55            ----            ----                       <factor>                   no                          <var>
+                ----         55            ----            ----                         <term>                   no                       <factor>
+                ----         55            ----            ----                       <lowExp>                   no                         <term>
+                ----         55            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         55            ----            ----                         <term>                   no                      <highExp>
+                ----         55            ----            ----                       <lowExp>                   no                     TK_EPSILON
+                ----         55            ----            ----                       <lowExp>                   no                       <lowExp>
+                   ;         55          TK_SEM            ----               <assignmentStmt>                  yes                           ----
+                ----         55            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         55            ----            ----                   <otherStmts>                   no                   <otherStmts>
+                  d4         56           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         56            ----            ----               <assignmentStmt>                   no                <singleOrRecId>
+                ----         56            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         56            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         56            ----            ----                         <stmt>                   no               <assignmentStmt>
+                <---         56     TK_ASSIGNOP            ----               <assignmentStmt>                  yes                           ----
+                b5c6         56           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         56            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         56            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         56            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         56            ----            ----                       <factor>                   no                          <var>
+                ----         56            ----            ----                         <term>                   no                       <factor>
+                ----         56            ----            ----         <arithmeticExpression>                   no                         <term>
+                   /         56          TK_DIV            ----                       <highOp>                  yes                           ----
+                ----         56            ----            ----                      <highExp>                   no                       <highOp>
+                ----         56            ----            ----                         <term>                   no                      <highExp>
+           d5cb34567         56           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         56            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         56            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         56            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         56            ----            ----                       <factor>                   no                          <var>
+                ----         56            ----            ----                      <highExp>                   no                       <factor>
+                ----         56            ----            ----                      <highExp>                   no                     TK_EPSILON
+                ----         56            ----            ----                      <highExp>                   no                      <highExp>
+                ----         56            ----            ----               <assignmentStmt>                   no         <arithmeticExpression>
+                ----         56            ----            ----                       <lowExp>                   no                     TK_EPSILON
+                ----         56            ----            ----         <arithmeticExpression>                   no                       <lowExp>
+                   ;         56          TK_SEM            ----               <assignmentStmt>                  yes                           ----
+                ----         56            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         56            ----            ----                   <otherStmts>                   no                   <otherStmts>
+               write         57        TK_WRITE            ----                       <ioStmt>                  yes                           ----
+                ----         57            ----            ----                         <stmt>                   no                       <ioStmt>
+                   (         57           TK_OP            ----                       <ioStmt>                  yes                           ----
+                  d4         57           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         57            ----            ----                          <var>                   no                <singleOrRecId>
+                ----         57            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         57            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         57            ----            ----                       <ioStmt>                   no                          <var>
+                   )         57           TK_CL            ----                       <ioStmt>                  yes                           ----
+                   ;         57          TK_SEM            ----                       <ioStmt>                  yes                           ----
+                ----         57            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         57            ----            ----                   <otherStmts>                   no                   <otherStmts>
+               write         58        TK_WRITE            ----                       <ioStmt>                  yes                           ----
+                ----         58            ----            ----                         <stmt>                   no                       <ioStmt>
+                   (         58           TK_OP            ----                       <ioStmt>                  yes                           ----
+                  d4         58           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         58            ----            ----                          <var>                   no                <singleOrRecId>
+                   .         58          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         58            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                   s         58      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         58            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                   .         58          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         58            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                  ln         58      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         58            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                   .         58          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         58            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+          beginpoint         58      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         58            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                   .         58          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         58            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                   x         58      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         58            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                ----         58            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         58            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                ----         58            ----            ----                       <ioStmt>                   no                          <var>
+                   )         58           TK_CL            ----                       <ioStmt>                  yes                           ----
+                   ;         58          TK_SEM            ----                       <ioStmt>                  yes                           ----
+                ----         58            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         58            ----            ----                   <otherStmts>                   no                   <otherStmts>
+               write         59        TK_WRITE            ----                       <ioStmt>                  yes                           ----
+                ----         59            ----            ----                         <stmt>                   no                       <ioStmt>
+                   (         59           TK_OP            ----                       <ioStmt>                  yes                           ----
+                b5c6         59           TK_ID            ----                <singleOrRecId>                  yes                           ----
+                ----         59            ----            ----                          <var>                   no                <singleOrRecId>
+                   .         59          TK_DOT            ----              <singleExpansion>                  yes                           ----
+                ----         59            ----            ----              <nestedExpansion>                   no              <singleExpansion>
+                 tag         59      TK_FIELDID            ----              <singleExpansion>                  yes                           ----
+                ----         59            ----            ----                <singleOrRecId>                   no              <nestedExpansion>
+                ----         59            ----            ----              <nestedExpansion>                   no                     TK_EPSILON
+                ----         59            ----            ----              <nestedExpansion>                   no              <nestedExpansion>
+                ----         59            ----            ----                       <ioStmt>                   no                          <var>
+                   )         59           TK_CL            ----                       <ioStmt>                  yes                           ----
+                   ;         59          TK_SEM            ----                       <ioStmt>                  yes                           ----
+                ----         59            ----            ----                   <otherStmts>                   no                         <stmt>
+                ----         59            ----            ----                   <otherStmts>                   no                   <otherStmts>
+                ----         60            ----            ----                   <otherStmts>                   no                     TK_EPSILON
+                ----         60            ----            ----                   <otherStmts>                   no                   <otherStmts>
+              return         60       TK_RETURN            ----                   <returnStmt>                  yes                           ----
+                ----         60            ----            ----                        <stmts>                   no                   <returnStmt>
+                ----         60            ----            ----               <optionalReturn>                   no                     TK_EPSILON
+                ----         60            ----            ----                   <returnStmt>                   no               <optionalReturn>
+                   ;         60          TK_SEM            ----                   <returnStmt>                  yes                           ----
+                 end         61          TK_END            ----                 <mainFunction>                  yes                           ----
+                ----          0            ----            ----                      <program>                   no                      TK_DOLLAR
+================================================================ END ===============================================================================
